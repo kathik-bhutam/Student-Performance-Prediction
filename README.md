@@ -28,6 +28,10 @@ The project uses a small fictional dataset containing the following features:
 | Assignment Score | Assignment marks |
 | Final Marks | Target variable to predict |
 
+## 🖥️ Application Screenshot
+
+![Student Performance Prediction App](screenshots/app_screenshot.png)
+
 ## 🤖 Machine Learning Algorithm
 **Linear Regression**
 
