@@ -28,9 +28,7 @@ The project uses a small fictional dataset containing the following features:
 | Assignment Score | Assignment marks |
 | Final Marks | Target variable to predict |
 
-## 🖥️ Application Screenshot
 
-![Student Performance Prediction App](screenshots/app_screenshot.png)
 
 ## 🤖 Machine Learning Algorithm
 **Linear Regression**
@@ -44,6 +42,9 @@ The model learns relationships between the input features and final marks using 
 - Saves the trained model.
 - Provides an interactive Streamlit interface.
 
+## 🖥️ Application Screenshot
+
+![Student Performance Prediction App](screenshots/app_screenshot.png)
 ## 📁 Project Structure
 
 ```text
